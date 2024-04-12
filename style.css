@@ -1,1 +1,11 @@
-gfdgdf
+body {
+    background-color: rgb(24, 219, 144);
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: black;
+}
